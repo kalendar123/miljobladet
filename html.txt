@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miljöbladet</title>
+    <link rel="stylesheet" href="index.css">
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <script src="https://kit.fontawesome.com/6374a6e878.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" type="image/png" href="lof.png">
+    <style>
+        body {
+          margin: 0;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .topnav {
+          overflow: hidden;
+          background-color: rgb(24, 23, 23);
+          margin-bottom: 10px;
+        }
+        
+        .topnav a {
+          float: left;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+        }
+        
+        .topnav a:hover {
+          background-color: #ddd;
+          color: black;
+        }
+        
+        .topnav a.active {
+          background-color: #04AA6D;
+          color: white;
+        }
+        </style>
+</head>
+<footer><img src="miljobladet.png" alt="kat" width="480px" class="image"></footer>
+<body style="background-color: rgb(241, 238, 238);">
+    
+    <div class="prekol11">
+        <div class="topnav">
+            <a class="active" href="#home">Miljösmarta Nyheter</a>
+            <a href="#news">Artiklar</a>
+            <a href="#contact">Vår Vision</a>
+          </div>
+          
+        <div class="prekol1">
+            <img src="Alliance.jpg" alt="kat" width="250px" class="image1">
+            <h2>Allt större efterfråga på miljövänliga krafter i Tyskland</h2>
+            <p><i class="fas fa-clock"></i> 2021-09-29</p>
+    <p>Tysklands öde avgörs.</p> <br/>
+    
+        </div>
+        <p class="cop1">____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ </p>
+        <div class="prekol1">
+            <img src="gif.gif" alt="kat" width="250px" class="image1">
+            <h2>Massiva Bränder i Malmö </h2>
+            <p><i class="fas fa-clock"></i> 2021-09-21</p>
+    <p>Hemskheter nalkar sig. Vardagen kommer inte att förbli bättre. Inte enkelt att leva i ett miljöskadligt samhälle.</p> <br/>
+        </div>
+
+         <p class="cop1">____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ </p>
+        <div class="prekol1">
+            <img src="gavle.jpg" alt="kat" width="250px" class="image1">
+            <h2>Kraftiga översvämningar i Gävle </h2>
+            <p><i class="fas fa-clock"></i> 2021-09-16</p>
+    <p>Hemskheter nalkar sig. Vardagen kommer inte att förbli bättre. Inte enkelt att leva i ett miljöskadligt samhälle.</p> <br/>
+        </div>
+        <p class="cop1">____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ </p>
+        <div class="prekol1">
+            <img src="gavle2.png" alt="kat" width="250px" class="image1">
+            <h2>Ung Men Ambitiös Tidning </h2>
+            <p><i class="fas fa-clock"></i> 2021-09-11</p>
+    <p>En upplyst miljösmart tidning som har tagit segen att upplyssa allmänheten. Vår mål går ut på att förmedla miljövänlig budskap och väcka miljösmart diskution.</p> <br/>
+        </div>
+       
+    </div>
+    <p class="cop"><i class="far fa-copyright"></i> Miljöbladet 2021</p>
+
+    
+    
+</body>
+</html>
